@@ -1,4 +1,4 @@
-<img src="![Screenshot 2025-03-05 230152 (1)](https://github.com/user-attachments/assets/644c4845-96e6-4dee-ac48-610d1e8fa292)" alt="Wild Strikes Banner" style="width:100%;"/>
+<img src="https://github.com/user-attachments/assets/644c4845-96e6-4dee-ac48-610d1e8fa292" alt="Wild Strikes Banner" style="width:100%;"/>
 
 
 # Wild Strikes
